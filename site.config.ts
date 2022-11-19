@@ -23,8 +23,8 @@ export default siteConfig({
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
-  defaultPageIcon: null,
-  defaultPageCover: null,
+  defaultPageIcon: "https://thumb.tildacdn.com/tild6566-6131-4635-b237-313839633662/-/resize/520x/-/format/webp/IMG_0848.jpeg",
+  defaultPageCover: "https://thumb.tildacdn.com/tild6566-6131-4635-b237-313839633662/-/resize/520x/-/format/webp/IMG_0848.jpeg",
   defaultPageCoverPosition: 0.5,
 
   // whether or not to enable support for LQIP preview images (optional)
