@@ -23,8 +23,8 @@ export default siteConfig({
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
-  defaultPageIcon: "https://thumb.tildacdn.com/tild6566-6131-4635-b237-313839633662/-/resize/520x/-/format/webp/IMG_0848.jpeg",
-  defaultPageCover: "https://thumb.tildacdn.com/tild6566-6131-4635-b237-313839633662/-/resize/520x/-/format/webp/IMG_0848.jpeg",
+  defaultPageIcon: null,
+  defaultPageCover: null,
   defaultPageCoverPosition: 0.5,
 
   // whether or not to enable support for LQIP preview images (optional)
@@ -54,7 +54,7 @@ export default siteConfig({
   navigationStyle: 'custom',
   navigationLinks: [
     {
-      title: 'Главная',
+      title: 'Главная страница',
       pageId: 'c151bcefacf84601ad37378ff5d71854'
     },
     {
