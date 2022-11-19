@@ -9,17 +9,17 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Transitive Bullshit',
-  domain: 'transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: 'Bogdan Mihailov',
+  domain: 'bogdanmind.vercel.app',
+  author: 'Bogdan Mihailov',
 
   // open graph metadata (optional)
-  description: 'Personal site of Travis Fischer aka Transitive Bullshit',
+  description: 'Personal site of Bogdan Mihailov',
 
   // social usernames (optional)
   twitter: '',
   github: '',
-  linkedin: '',
+  linkedin: 'bogdanmind',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
