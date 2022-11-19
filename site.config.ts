@@ -23,8 +23,8 @@ export default siteConfig({
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
-  defaultPageIcon: 'https://transitivebullsh.it/page-icon.png',
-  defaultPageCover: 'https://transitivebullsh.it/page-cover.jpg',
+  defaultPageIcon: null,
+  defaultPageCover: null,
   defaultPageCoverPosition: 0.5,
 
   // whether or not to enable support for LQIP preview images (optional)
@@ -52,14 +52,14 @@ export default siteConfig({
   // whether to use the default notion navigation style or a custom one with links to
   // important pages
   navigationStyle: 'custom',
-//   navigationLinks: [
-//     {
-//       title: 'About',
-//       pageId: '8d0062776d0c4afca96eb1ace93a7538'
-//     },
-//     {
-//       title: 'Contact',
-//       pageId: '9a7ddf2973444067bbc5ce0a4e0e0058'
-//     }
-//   ]
+  navigationLinks: [
+    {
+      title: 'About',
+      pageId: '8d0062776d0c4afca96eb1ace93a7538'
+    },
+    {
+      title: 'Contact',
+      pageId: '9a7ddf2973444067bbc5ce0a4e0e0058'
+    }
+  ]
 })
