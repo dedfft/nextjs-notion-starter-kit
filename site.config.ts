@@ -57,9 +57,6 @@ export default siteConfig({
       title: 'Главная страница',
       pageId: 'c151bcefacf84601ad37378ff5d71854'
     },
-    {
-      title: 'Обо мне',
-      pageId: '74b0cbd8d4ec47f39bb0c4ac171fd500'
-    }
+    
   ]
 })
