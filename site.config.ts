@@ -54,7 +54,7 @@ export default siteConfig({
   navigationStyle: 'custom',
   navigationLinks: [
     {
-      title: 'Главная страница',
+      title: 'Главная страница ',
       pageId: 'c151bcefacf84601ad37378ff5d71854'
     },
     
