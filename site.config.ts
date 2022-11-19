@@ -54,12 +54,12 @@ export default siteConfig({
   navigationStyle: 'custom',
   navigationLinks: [
     {
-      title: 'About',
-      pageId: '8d0062776d0c4afca96eb1ace93a7538'
+      title: 'Главная',
+      pageId: 'c151bcefacf84601ad37378ff5d71854'
     },
     {
-      title: 'Contact',
-      pageId: '9a7ddf2973444067bbc5ce0a4e0e0058'
+      title: 'Обо мне',
+      pageId: '74b0cbd8d4ec47f39bb0c4ac171fd500'
     }
   ]
 })
