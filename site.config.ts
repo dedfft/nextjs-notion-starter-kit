@@ -17,8 +17,8 @@ export default siteConfig({
   description: 'Personal site of Bogdan Mihailov',
 
   // social usernames (optional)
-  twitter: '',
-  github: ' ',
+  twitter: null,
+  github: null,
   linkedin: 'bogdanmind',
 
   // default notion icon and cover images for site-wide consistency (optional)
